@@ -14,7 +14,3 @@ logging.basicConfig(
     level=logging.INFO,
     
 )
-
-
-# if __name__=="main":
-#     logging.info("logging started")
