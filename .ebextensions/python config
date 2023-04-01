@@ -1,0 +1,4 @@
+
+option_setting:
+    "aws:elasticbeanstalk:comtainer:python";
+    WSGIPath: applicaion:application
